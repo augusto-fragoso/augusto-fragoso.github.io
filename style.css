@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: rgb(19, 49, 92);
+    color: white;
+}
+
+.header {
+    background-color: rgb(141, 169, 196);
+    padding: 1%;
+    border-radius: 10px;
+    height: 300px;
+}
+
+#meunome {
+    background-color: rgb(11, 37, 69);
+    color: rgb(238, 244, 237);
+    border-radius: 10px;
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    
+}
+
+#poteio {
+    position: absolute;
+    top: 10%;
+    right: 68%;
+    border-radius: 50%;
+    
+}
+
+.intro {
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    right: 5%;
+    color: rgb(11, 37, 69);
+    background-color: rgb(238, 244, 237);
+    border-radius: 10px;
+}
+
+.abilities {
+    background-color: rgb(141, 169, 196);
+    padding: 1%;
+    border-radius: 10px;
+    color: rgb(11, 37, 69);
+}
+
+.itemimpar:hover {
+background-color: rgb(238, 244, 237);
+border-radius: 10px;
+}
